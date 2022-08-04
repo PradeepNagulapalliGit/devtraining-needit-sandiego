@@ -4,7 +4,7 @@
   "table" : "x_58872_needit_needit",
   "sysId" : "5e38e3951b58c110b81fdce7cc4bcbb5"
 }</macroponent_config>
-        <screen display_value="Record default">57c4eb371b858d10b81fdce7cc4bcb70</screen>
+        <screen/>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-21 21:02:44</sys_created_on>
